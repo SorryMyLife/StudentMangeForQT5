@@ -8,3 +8,6 @@ qt版本:5.14.1
 
 
 编译器:MinGW32
+
+效果图
+![](https://github.com/SorryMyLife/StudentMangeForQT5/tree/master/images/qt1.png)
